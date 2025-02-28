@@ -1,0 +1,17 @@
+BACK END - 21/02
+
+TIPAGEM DINÂMICA: o interpretador tenta
+entender o tipo da variável por conta
+própria. (Javascript e Python)
+
+Vantagem: o programador não precisa
+fixar o tipo da variável
+
+Desvantagem: o interpretador pode
+impor um tipo errado a variável, 
+causando erros.
+
+COMO PREVINIR?
+-> Forçando a conversão de tipo:
+Number("10")
+String(123456)
